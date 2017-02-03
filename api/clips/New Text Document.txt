@@ -1,0 +1,6 @@
+hey_ma = ["Whats up?","Lets slide, Alright","Alright","And we gonna get it on tonight"]
+Beastie Boys = ["Check - ch - check - check - check - ch -check it out","What-wha-what-what-what's it all about."]
+I Really Like You = ["I really really really really really really like you", "And I want you, do you want me, do you want me, too?"]
+Yellowcard - Ocean Avenue = ["If I could find you now things would be better","We could leave this town and run forever.","Let your waves crash down on me, and take me away yea yea"]
+Lady Gaga - A-YO = ["Off on me, my body's got you pleadin'","Light me up and breathe in","Mirror on the ceiling","A-YO, A-YO"]
+The Killers - Mr. Brightside = ["It's just the price I pay","Destiny is calling me","Open up my eager eyes","Cause Im Mr. Brightside"]
